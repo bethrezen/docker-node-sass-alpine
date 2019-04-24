@@ -12,5 +12,5 @@ docker run bethrezen/node-sass-alpine:<NODE_VERSION> node-sass-alpine
 
 # Upgrade Node
 
-* `docker build -t bethrezen/node-sass-alpine:<NODE_VERSION> .`
-* `docker push bethrezen/node-sass-alpine:<NODE_VERSION>`
+* `docker build -t bethrezen/node-sass-alpine:latest .`
+* `docker push bethrezen/node-sass-alpine:latest`
